@@ -1,6 +1,6 @@
-## Solving Regression Problem Using Neural Network
+# Solving Regression Problem Using Neural Network
 
-#### solve with "sklearn code"
+## solve with "sklearn code"
 
 -  step1
 
@@ -40,13 +40,17 @@
 
   `$ python3 solve_2.py`
 
-#### solve with "keras code"
+## solve with "keras code"
 
  If u want run the code on dataset number 1:
 
 ​		`$ python3 keras_1.py`
 
- else for dataset number 2 open the keras_1.py and change df = pandas.read_csv("data_1_out.csv") to df = pandas.read_csv("data_2_out.csv") and save the file then:
+ else for dataset number 2 open the keras_1.py and change
+
+ df = pandas.read_csv("data_1_out.csv") to df = pandas.read_csv("data_2_out.csv") 
+
+ and save the file then:
 
 ​	  `$ python3 keras_1.py`
 
